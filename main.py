@@ -85,6 +85,7 @@ while True:
                 bbox = 55 + x1, 162 + y1, x2 - x1, y2 - y1
                 imgBackground = cvzone.cornerRect(imgBackground, bbox, rt=0)
                 id = studentIDs[matchIndex]
+                # id
 
                 if counter == 0:
                     cvzone.putTextRect(imgBackground, "Loading", (275, 400))
