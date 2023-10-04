@@ -86,7 +86,6 @@ while True:
                 imgBackground = cvzone.cornerRect(imgBackground, bbox, rt=0)
                 id = studentIDs[matchIndex]
 
-
                 if counter == 0:
                     cvzone.putTextRect(imgBackground, "Loading", (275, 400))
                     cv2.imshow("Face Attendance", imgBackground)
