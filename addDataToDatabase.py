@@ -30,9 +30,9 @@ data = {
         },
     '1233':
         {
-            "name": "Abhinav Yadav ",
-            "major": "BBA",
-            "joining_year": 2020,
+            "name": "Dhananjay Sharma ",
+            "major": "MCA",
+            "joining_year": 2023,
             "total_attendance": 7,
             "last_attendance_time": "2023-07-09 04:53:01"
 
