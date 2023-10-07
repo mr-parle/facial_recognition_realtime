@@ -72,11 +72,7 @@ while True:
             if matches[matchIndex]:
                 # print("Known face Detected")
                 # print(studentIDs[matchIndex])
-                # y1, x2, y2, x1 = faceLoc
-                # y1, x2, y2, x1 = (y1 * 4) + 200, x2 * 4, y2 * 4, (x1 * 4) + 50
-                #
-                # cv2.rectangle(imgBackground, (x1, y1), (x2, y2), (0, 55, 0), 1)
-                # print(faceLoc)
+
 
                 # Corner Rectangle
 
